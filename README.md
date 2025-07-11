@@ -132,7 +132,8 @@
                     <h2 class="text-2xl font-bold text-gray-800 border-b-4 border-purple-400 pb-2 mb-6">校長先生からのご挨拶</h2>
                     <div class="flex flex-col sm:flex-row items-center gap-6">
                         <div class="flex-shrink-0">
-                            <img src="https://placehold.co/150x150/a78bfa/ffffff?text=校長先生" alt="" class="rounded-full shadow-lg object-cover">
+                            <img src="https://placehold.co/150x150/a78bfa/ffffff?text=校長先生" alt="![download](https://github.com/user-attachments/assets/334c4e30-696b-47e0-8e18-40bbb90394f7)
+" class="rounded-full shadow-lg object-cover">
                         </div>
                         <div class="flex-grow">
                             <p class="text-gray-700">
